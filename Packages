@@ -47,3 +47,20 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 Name: Old Package
 
+Package: com.tigisoftware.filza64bit
+Version: 4.0.0-6
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debs/com.tigisoftware.filza64bit_4.0.0-6_iphoneos-arm.deb
+Size: 8700444
+MD5sum: 023705537cb119fd58564b5918ed5cc8
+SHA1: 7c3d8234fa820d3a5f17e52dba8c8ed4596547ab
+SHA256: 1dbe2b7ff2d9463bc92454b3ad3159fc2d3b1ab8dee9f40844d719c3d7c73397
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Author: TIGI Software
+Installed-Size: 23200
+Name: Filza File Manager 64-bit
+
