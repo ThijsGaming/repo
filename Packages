@@ -52,6 +52,25 @@ Author: alimaulana
 Installed-Size: 4896
 Name: AIM
 
+Package: com.cheeco.emotive
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: Cheeco <mlxcheeco@gmail.com>
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debs/com.cheeco.emotive_1.1.5_iphoneos-arm.deb
+Size: 4636748
+MD5sum: 77267772e2d42105bef8f231a9a2f23f
+SHA1: f7ff3908b75edf68d2d44afb4895a95e5bf9ff9a
+SHA256: 41103a172443aae594a2d16da19c9970645b35382f38697374bd0026949ae8bd
+Section: Themes
+Description: A Beautiful Vibrant Theme
+Author: Cheeco <mlxcheeco@gmail.com>
+Depiction: https://chariz.com/get/emotive
+Icon: https://cdn.chariz.cloud/icon/emotive/icon@3x.png
+Installed-Size: 8400
+Name: Emotive
+Tag: compatible_min::ios11.0
+
 Package: com.tigisoftware.filza64bit
 Version: 4.0.0-6
 Architecture: iphoneos-arm
