@@ -1,3 +1,24 @@
+Package: com.ichitaso.hideserialnumber
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ichitaso.hideserialnumber_0.0.2_iphoneos-arm.deb
+Size: 51250
+MD5sum: cba0bd031b94d445af2bddbeeae1f945
+SHA1: 7a51aff67c120518f559890b3dc0ed2c02cb08a7
+SHA256: 91fa9d72ead015b3e680c5c9202a86422bab65712facadbaa02d3c82fdc56c74
+Section: Tweaks
+Description: Hide Serial Number in Settings About page.
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/hidesn.html
+Homepage: https://cydia.ichitaso.com/depiction/hidesn.html
+Icon: file:///Library/PreferenceBundles/HideSerialSettings.bundle/icon@2x.png
+Installed-Size: 352
+Name: HideSerialNumber
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+dev: ichitaso
+
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
 Architecture: iphoneos-arm
