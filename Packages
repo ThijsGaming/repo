@@ -91,6 +91,25 @@ Installed-Size: 8400
 Name: Emotive
 Tag: compatible_min::ios11.0
 
+Package: com.xandesign.felicitypro
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: XerusDesign <unixdesignios@gmail.com>
+Depends: com.spark.snowboard | com.anemonetheming.anemone3
+Replaces: com.twickd.xerusdesign.felicity-pro
+Filename: ./debs/com.xandesign.felicitypro_4.0_iphoneos-arm.deb
+Size: 22810574
+MD5sum: 4a00a494e6f9d58faf611a41fdfa4b0e
+SHA1: 0810cf63bfef52aac3f61108a04684c0b9962fbe
+SHA256: 81afcbe84f1dfa78274f81dfbc82f2381d4821f53465cfb5e76eef15df52ded2
+Section: Themes
+Description: Felicity, but Pro.
+Author: XerusDesign <unixdesignios@gmail.com>
+Depiction: https://chariz.com/get/felicity-pro
+Icon: https://cdn.chariz.cloud/icon/felicity-pro/icon@3x.png
+Installed-Size: 25224
+Name: Felicity Pro
+
 Package: com.tigisoftware.filza64bit
 Version: 4.0.0-6
 Architecture: iphoneos-arm
