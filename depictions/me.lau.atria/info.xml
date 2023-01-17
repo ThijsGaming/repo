@@ -1,0 +1,24 @@
+<package>
+    <id>me.lau.atria</id>
+    <name>atria</name>
+    <version>1.0.0-1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>5.0</miniOS>
+            <maxiOS>7.0</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>with atria you can resize and change the position of icons..</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+    <links></links>
+</package>

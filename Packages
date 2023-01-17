@@ -35,6 +35,26 @@ Author: pixelomer
 Installed-Size: 1096
 Name: MobileGoose
 
+Package: me.lau.atria
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: ren7995 <lau7995ren@gmail.com>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Filename: ./debs/me.lau.atria_1.3.3_iphoneos-arm.deb
+Size: 149054
+MD5sum: 2030441b1778cb9c6bb98381ac4a3584
+SHA1: fba82d791376c3d37b59ef68aa88b48c69ce9b96
+SHA256: 510cb18136f3bd8dcdbee2073e829075cdf1d32e0c6c93fc4c9467c268b3758c
+Section: Tweaks
+Description: A proper homescreen layout editor for iOS 13-15
+Author: ren7995 <lau7995ren@gmail.com>
+Depiction: https://chariz.com/get/atria
+Icon: https://img.chariz.cloud/icon/atria/icon@3x.png
+Installed-Size: 733
+Name: Atria
+Tag: compatible_min::ios13.0
+
 Package: com.ali.aim
 Version: 1.2.5
 Architecture: iphoneos-arm
