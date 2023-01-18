@@ -110,6 +110,21 @@ Icon: https://cdn.chariz.cloud/icon/felicity-pro/icon@3x.png
 Installed-Size: 25224
 Name: Felicity Pro
 
+Package: com.whyms.fika
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: WhyMS
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/com.whyms.fika_1.0.deb
+Size: 2874316
+MD5sum: 8a0c020ec4b40363570c342cf4edd3da
+SHA1: 119f5d47bef9ae8e6640ddcd613441dc0e5273a7
+SHA256: adade364338e818466ff0521cd0e578a01e09b150d1c0a66342bed8ebeee02e1
+Section: Themes
+Description: A small theme with beautifuly done glyph icons!
+Author: WhyMS
+Name: Fika
+
 Package: com.tigisoftware.filza64bit
 Version: 4.0.0-6
 Architecture: iphoneos-arm
